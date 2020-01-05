@@ -1,0 +1,1 @@
+echo 'hello there. this will run in jenkins on check in'
